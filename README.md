@@ -107,20 +107,31 @@ cd flask
 python app.py
 ```
 
-Open your browser
+## Open in Browser
 
-```
-http://127.0.0.1:5000
-```
+https://opticrop-smart-agricultural-production-jmgm.onrender.com/
 
 ---
 
 ## 📸 Screenshots
 
-(Add your application screenshots here.)
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### ℹ️ About Page
+![About](screenshots/about.png)
+
+### 🌱 Prediction Page
+![Prediction](screenshots/predict.png)
+
+### ✅ Crop Recommendation Result
+![Result](screenshots/result.png)
 
 ---
 
 ## 👩‍💻 Developed By
 
-**Divya Sree Sai Pagadala**
+- Charishma Kongara
+- Divya Sree Sai Pagadala
+- Homarugvedha Chappidi
+- Harshitha Kuruba
